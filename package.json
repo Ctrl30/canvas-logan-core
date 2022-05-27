@@ -1,0 +1,20 @@
+{
+  "name": "logan-canvas-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ctrl30/canvas-logan-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ctrl30/canvas-logan-core/issues"
+  },
+  "homepage": "https://github.com/Ctrl30/canvas-logan-core#readme"
+}
